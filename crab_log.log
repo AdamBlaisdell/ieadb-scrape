@@ -1,0 +1,9 @@
+10/12/22 04:39:35 PM INFO URL: https://iea.uoregon.edu/base-agreement-list?combine=crab&field_inclusion_value=All&sig_year%5Bmin%5D=&sig_year%5Bmax%5D=2100-01-01&mitch_id=&field_lineage_value= 
+10/12/22 04:39:39 PM INFO From page 1, added row 1, treaty ID: 2638 
+10/12/22 04:39:39 PM INFO From page 1, added row 2, treaty ID: 2684 
+10/12/22 04:39:40 PM INFO From page 1, added row 3, treaty ID: 385 
+10/12/22 04:39:41 PM INFO From page 1, added row 4, treaty ID: 1337 
+10/12/22 04:39:42 PM INFO From page 1, added row 5, treaty ID: 4225 
+10/12/22 04:39:42 PM INFO --------------------------------------
+Page 1 complete: 5 treaties were parsed. 
+10/12/22 04:39:43 PM INFO Page 2 not found! 5 total treaties were parsed. Exiting program. 
