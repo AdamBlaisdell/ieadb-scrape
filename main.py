@@ -5,9 +5,6 @@ import treaty_parser
 import csv
 import logging
 
-# install imports Terminal command line:
-# pip install requests beautifulsoup4 langdetect
-
 user_url = urls.get_user_url()
 logging.info(f'URL: {user_url}')
 csv_name = input("Please enter a file name for csv output: ")
